@@ -203,5 +203,4 @@
 
 </div>
 </body>
-</html>(https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+</html>
