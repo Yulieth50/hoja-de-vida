@@ -40,7 +40,7 @@
 </p>
 ---
 
-# YULIETH MOSQUERA
+# HEILYS YULIETH MOSQUERA URRUTIA
 **Desarrolladora Full-Stack & Consultora de Software**
 
 📍 Medellín, Colombia | ✉️ mosquerayulieth456@gmail.com | 📞 +57 323 5110389  
